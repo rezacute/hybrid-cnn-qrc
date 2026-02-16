@@ -1,0 +1,4 @@
+  File "<stdin>", line 1
+    python3 << 'EOF' > out_fractional.txt 2>&1 &
+                                          ^
+SyntaxError: invalid syntax
